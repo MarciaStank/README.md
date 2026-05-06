@@ -1,6 +1,7 @@
 # Hi there, I'm Marcia 👋
 
-💼 QA Analyst with 3+ years of experience in manual testing and test automation  
+💼 QA Engineer with 3+ years of experience in manual testing and test automation  
+📱 Strong focus on mobile testing (Android and IOS) and web applications  
 🌍 Open to remote international opportunities (LATAM / Worldwide)  
 📍 Based in Brazil  
 
@@ -8,48 +9,59 @@
 
 ## 👩‍💻 About Me
 
-I’m a Quality Assurance Analyst with solid experience in mobile and web testing, working in agile environments and collaborating closely with cross-functional teams.
+I’m a Quality Assurance Engineer with solid experience in mobile and web testing, working in agile environments and collaborating closely with cross-functional teams.
 
-I have hands-on experience with:
-- Functional, regression, and exploratory testing  
-- Accessibility and performance testing  
-- Writing test scenarios using Gherkin (BDD)  
-- Test management using Azure DevOps (TFS)
+I focus on ensuring product quality through structured testing, clear documentation, and a strong attention to user experience.
 
-I also have experience with **test automation**, focusing on building reliable and maintainable test solutions.
+---
+
+## 📱 Mobile Testing Experience
+
+Strong experience in mobile testing for Android and IOS applications, focusing on:
+
+- Functional testing on real devices and cloud environments (BrowserStack)
+- Input validation and UI/UX behavior
+- Regression testing across different screen sizes and devices
+- Compatibility testing in mobile web and native-like applications
+- Bug reporting with clear reproduction steps and evidence
 
 ---
 
 ## 🚀 Tech Stack
 
 **Testing & QA:**
-- Manual Testing  
-- Test Case Design  
-- BDD (Gherkin)  
+- Manual Testing
+- Test Case Design
+- BDD (Gherkin)
 
 **Automation:**
-- Robot Framework  
-- Selenium  
+- Robot Framework
+- Selenium
 
 **Tools:**
-- Azure DevOps (TFS)  
-- Git & GitHub  
+- Azure DevOps (TFS)
+- Git & GitHub
+- BrowserStack
 
 ---
 
-## 📌 Featured Projects
+## ☁️ Cloud Testing
 
-🔹 QA Portfolio Project (Test Scenarios, Evidence & Documentation)  
-🔹 Automation Test Project (Robot Framework or Selenium)  
-🔹 API Testing Studies (coming soon)
+Test execution performed using **BrowserStack** real devices, allowing validation in real-world mobile conditions beyond local environments.
+
+This ensures:
+- Cross-device compatibility
+- More realistic mobile behavior validation
+- Higher confidence in test results
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Improving
 
-- Advanced test automation strategies  
-- API testing  
-- CI/CD integration for QA  
+- Advanced test automation strategies
+- CI/CD integration for QA workflows
+- Mobile testing best practices
+- API testing fundamentals
 
 ---
 
@@ -62,9 +74,9 @@ I also have experience with **test automation**, focusing on building reliable a
 
 ## 📫 Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/marciastankiwich/ 
-- Email: marciastankiwich@gmail.com
+- LinkedIn: https://www.linkedin.com/in/marciastankiwich/  
+- Email: marciastankiwich@gmail.com  
 
 ---
 
-⭐ Always focused on improving quality, user experience, and continuous learning.
+⭐ Focused on quality, user experience, and continuous improvement in software delivery.
